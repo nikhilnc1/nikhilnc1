@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **everything related to java, Spring, MySql**
 
-- 📫 How to reach me **nikhilnchavan11@gmail.com**
+- 📫 How to reach me **nikhilnchavan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
