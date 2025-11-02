@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **PHP and more**
+- 🌱 I’m currently learning **Spring boot and more**
 
 - 💬 Ask me about **everything related to java, Spring, MySql**
 
